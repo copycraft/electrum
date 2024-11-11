@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    " E ",
+    " S "
+  ],
+  "key": {
+    "E": { "item": "electrum:electrum_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "electrum:electrum_cleaver",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "item.electrum.electrum_ingot": "Electrum Ingot",
+  "block.electrum.electrum_block": "Electrum Block",
+  "item.electrum.small_battery_empty": "Small Battery (Empty)",
+  "item.electrum.small_battery_full": "Small Battery (Full)",
+  "item.electrum.large_battery_empty": "Large Battery (Empty)",
+  "item.electrum.large_battery_full": "Large Battery (Full)",
+  "item.electrum.lithium_powder": "Lithium Powder",
+  "item.electrum.electrum_cleaver": "Electrum Cleaver",
+  "item.electrum.electrum_gavel": "Electrum Gavel",
+  "item.electrum.electrum_gavel_charged": "Electrum Gavel (Charged)",
+  "item.electrum.electrum_helmet.json": "Electrum Helmet",
+  "item.electrum.electrum_chestplate": "Electrum Chestplate",
+  "item.electrum.electrum_leggings": "Electrum Leggings",
+  "item.electrum.electrum_boots": "Electrum Boots"
+
+
+}

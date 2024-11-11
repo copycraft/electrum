@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "ELI",
+    "IEI"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "electrum:electrum_nugget"
+    },
+    "L": {
+      "item": "electrum:lithium_powder"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "electrum:small_battery_empty",
+    "count": 1
+  }
+}

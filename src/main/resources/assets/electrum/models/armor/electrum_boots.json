@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/armor/boots",
+  "textures": {
+    "layer0": "electrum:armor/electrum_boots"
+  }
+}
