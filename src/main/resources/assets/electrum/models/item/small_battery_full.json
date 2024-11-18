@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "electrum:item/small_battery_full"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/armor/leggings",
-  "textures": {
-    "layer0": "electrum:armor/electrum_leggings"
-  }
-}

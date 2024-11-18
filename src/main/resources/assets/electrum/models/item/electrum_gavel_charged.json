@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "electrum:item/electrum_gavel_charged"
-  }
-}
