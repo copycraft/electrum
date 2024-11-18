@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "electrum:block/gavel_block_side",
+    "south": "electrum:block/gavel_block_side",
+    "east": "electrum:block/gavel_block_side",
+    "west": "electrum:block/gavel_block_side",
+    "up": "electrum:block/gavel_block_top",
+    "down": "electrum:block/gavel_block_bottom"
+  }
+}

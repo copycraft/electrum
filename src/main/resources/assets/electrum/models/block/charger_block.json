@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "electrum:block/charger_block_bottom",
+    "up": "electrum:block/charger_block_top",
+    "north": "electrum:block/charger_block_front",
+    "south": "electrum:block/charger_block_back",
+
+    "west": "electrum:block/charger_block_side",
+    "east": "electrum:block/charger_block_side"
+  }
+}

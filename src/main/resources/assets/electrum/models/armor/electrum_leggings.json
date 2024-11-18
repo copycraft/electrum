@@ -1,0 +1,7 @@
+{
+  "parent": "item/armor/leggings",
+  "textures": {
+    "layer_1": "electrum:textures/models/armor/electrum_layer_1",
+    "layer_2": "electrum:textures/models/armor/electrum_layer_2"
+  }
+}

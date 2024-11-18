@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "electrum:block/charger_block" }
+  }
+}

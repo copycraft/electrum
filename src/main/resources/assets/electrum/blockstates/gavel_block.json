@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model": "electrum:block/gavel_block" },
+    "charged=true": { "model": "electrum:block/gavel_block_charged" }
+  }
+}
